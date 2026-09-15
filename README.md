@@ -17,6 +17,6 @@ Construir uma carreira em Segurança da Informação, com foco em IAM, através 
 
 *(mais aulas sendo adicionadas conforme avanço)*
 
-## 🙋 Sobre mim
+## 🙋🏽‍♂️ Sobre mim
 
 Começando na área de TI/Segurança da Informação, vindo de fora da tecnologia. Documentando essa jornada publicamente para manter consistência e, no futuro, mostrar evolução real através de projetos práticos.
